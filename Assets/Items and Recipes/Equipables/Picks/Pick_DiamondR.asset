@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c191484dd65dc4ea8f28f194f7022c, type: 3}
+  m_Name: Pick_DiamondR
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 5578b450b67a8874fa34db88efa91f00, type: 2}
+  - {fileID: 11400000, guid: 465b8a4137746ec4d8aa466987060897, type: 2}
+  - {fileID: 11400000, guid: eaa8947546a81c4409e27a45f7e1421d, type: 2}
+  - {fileID: 11400000, guid: 7de18e9cad73a7244974004a4926d73e, type: 2}
+  amounts: 50000000320000001400000001000000
+  craftTime: 30
+  table: 1
+  fire: 0
+  water: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c191484dd65dc4ea8f28f194f7022c, type: 3}
+  m_Name: Pick_StoneR
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 11400000, guid: 11e711027f5d3214bbe4a3ac8977be57, type: 2}
+  - {fileID: 11400000, guid: 5578b450b67a8874fa34db88efa91f00, type: 2}
+  - {fileID: 11400000, guid: 3f26b7b052f897c41b43360007ded2a9, type: 2}
+  amounts: 320000000f00000001000000
+  craftTime: 15
+  table: 1
+  fire: 0
+  water: 0

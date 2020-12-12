@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: eb854451a825df7438ccdb5f4e2437a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Paaji 2
+  fontNames:
+  - Baloo Paaji 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 713180b513fbcdd4fa1a8213f1b6733c, type: 3}
+  - {fileID: 12800000, guid: 296c398776b76db4a8a29acbe8402595, type: 3}
+  - {fileID: 12800000, guid: f9fbd0e8dd679a94885d51542420b5eb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
